@@ -20,8 +20,8 @@
 
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.* 
 
-![eCryptfs](https://github.com/Fameq/11.04-hw/blob/master/img/task1_1.png)
-![eCryptfs](https://github.com/Fameq/11.04-hw/blob/master/img/task1_2.png)
+![eCryptfs](https://github.com/Fameq/13.02-hw/blob/master/img/task1_1.png)
+![eCryptfs](https://github.com/Fameq/13.02-hw/blob/master/img/task1_2.png)
 
 ### Задание 2
 
@@ -31,10 +31,10 @@
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
-![LUKS](https://github.com/Fameq/11.04-hw/blob/master/img/task2_1.png)
-![LUKS](https://github.com/Fameq/11.04-hw/blob/master/img/task2_2.png)
-![LUKS](https://github.com/Fameq/11.04-hw/blob/master/img/task2_3.png)
-![LUKS](https://github.com/Fameq/11.04-hw/blob/master/img/task2_4.png)
+![LUKS](https://github.com/Fameq/13.02-hw/blob/master/img/task2_1.png)
+![LUKS](https://github.com/Fameq/13.02-hw/blob/master/img/task2_2.png)
+![LUKS](https://github.com/Fameq/13.02-hw/blob/master/img/task2_3.png)
+![LUKS](https://github.com/Fameq/13.02-hw/blob/master/img/task2_4.png)
 
 ## Дополнительные задания (со звёздочкой*)
 
