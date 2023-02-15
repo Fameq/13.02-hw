@@ -32,7 +32,7 @@
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
 ![LUKS](https://github.com/Fameq/13.02-hw/blob/master/img/task2_1.png)
-![LUKS](https://github.com/Fameq/13.02-hw/blob/master/img/task2_2.png)
+![LUKS](https://github.com/Fameq/13.02-hw/blob/master/img/task2_5.png)
 ![LUKS](https://github.com/Fameq/13.02-hw/blob/master/img/task2_3.png)
 ![LUKS](https://github.com/Fameq/13.02-hw/blob/master/img/task2_4.png)
 
